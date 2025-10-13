@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2025-10-06",
+    "steps": 7200,
+    "sleep_hours": 6.5,
+    "heart_rate": 78,
+    "focus_score": 6.8,
+    "hydration_liters": 1.9,
+    "mood": "neutral"
+  },
+  {
+    "date": "2025-10-07",
+    "steps": 10500,
+    "sleep_hours": 7.3,
+    "heart_rate": 72,
+    "focus_score": 7.5,
+    "hydration_liters": 2.3,
+    "mood": "good"
+  },
+  {
+    "date": "2025-10-08",
+    "steps": 4100,
+    "sleep_hours": 5.8,
+    "heart_rate": 85,
+    "focus_score": 5.9,
+    "hydration_liters": 1.5,
+    "mood": "tired"
+  },
+  {
+    "date": "2025-10-09",
+    "steps": 8900,
+    "sleep_hours": 7.0,
+    "heart_rate": 76,
+    "focus_score": 7.2,
+    "hydration_liters": 2.0,
+    "mood": "neutral"
+  },
+  {
+    "date": "2025-10-10",
+    "steps": 6500,
+    "sleep_hours": 6.0,
+    "heart_rate": 82,
+    "focus_score": 6.4,
+    "hydration_liters": 1.8,
+    "mood": "tired"
+  },
+  {
+    "date": "2025-10-11",
+    "steps": 12000,
+    "sleep_hours": 8.2,
+    "heart_rate": 70,
+    "focus_score": 8.1,
+    "hydration_liters": 2.5,
+    "mood": "energetic"
+  },
+  {
+    "date": "2025-10-12",
+    "steps": 5800,
+    "sleep_hours": 5.9,
+    "heart_rate": 84,
+    "focus_score": 6.0,
+    "hydration_liters": 1.6,
+    "mood": "tired"
+  }
+]
