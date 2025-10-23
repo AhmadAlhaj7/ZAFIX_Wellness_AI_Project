@@ -44,7 +44,7 @@ nutrition_cols = [
 ]
 
 # Filter columns that exist in the DataFrame
-nutrition_cols = [col for col in nutrition_cols if col in df_food.columns]
+nutrition_cols = [col for col in nutrition_cols if col in df_food.columns] # Only keep columns from our list that actually exist in the DataFrame.
 df_food_clean = df_food[nutrition_cols].copy()
 
 # Rename columns for clarity

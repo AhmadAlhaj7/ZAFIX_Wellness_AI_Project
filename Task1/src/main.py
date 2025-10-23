@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import os
 
-os.makedirs("data", exist_ok=True)
+os.makedirs("data", exist_ok=True)  # create a data directory if not exist
 
 # === 1. Fetch data from Open-Meteo ===
 weather_url = "https://api.open-meteo.com/v1/forecast"

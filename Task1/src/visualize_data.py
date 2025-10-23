@@ -18,7 +18,7 @@ plt.xlabel("Time")
 plt.ylabel("Temperature (°C)")
 plt.title("Temperature and Feels-Like Temperature Over Time")
 plt.legend()
-plt.tight_layout()
+plt.tight_layout() # Spacing
 plt.show()
 
 corr = df_weather[["temp_celsius", "humidity_percent", "feels_like"]].corr()
@@ -30,10 +30,10 @@ plt.title("Correlation Between Weather Variables")
 plt.tight_layout()
 plt.show()
 
+
 plt.figure(figsize=(6,4))
 df_food.T.plot(kind="bar", legend=False)
 plt.title("Nutritional Composition per 100g")
 plt.ylabel("Amount (grams or kcal)")
 plt.tight_layout()
 plt.show()
-
